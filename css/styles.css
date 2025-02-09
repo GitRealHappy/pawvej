@@ -1,0 +1,22 @@
+#header {
+    font-family: TT Firs Neue, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 5px 0 #000;
+}
+
+#header a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    background-color: #f0f0f0;
+    color: rgb(70, 19, 173);
+    padding: 10px 25px;
+    border: 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
